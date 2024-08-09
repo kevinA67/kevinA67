@@ -28,5 +28,5 @@
 ---
 <div align="center">
   
-¡Gracias por visitar mi perfil! Si te interesa colaborar en algún proyecto, no dudes en contactarme.
+<b>¡Gracias por visitar mi perfil! Si te interesa colaborar en algún proyecto, no dudes en contactarme.</b>
 </div>
