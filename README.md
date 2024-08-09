@@ -1,18 +1,32 @@
+<div align="center" style="background-color: #f0f0f0;">
+
 ## Hola, soy Alexis 👋 
 
-<img src="https://choprabhargav82.github.io/images/coder.jpg">
+</div>
 
-<!--
-**kevinA67/kevinA67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 
-Here are some ideas to get you started:
+  <img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="Imagen" width="400px" style="margin-bottom: 20px;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>Soy un desarrollador apasionado por el desarrollo de software y la tecnología. Me encanta aprender nuevas habilidades y colaborar en proyectos interesantes.</p>
+
+</div>
+
+<div align="center">
+  
+## 📊 Estadísticas de GitHub
+</div>
+
+<div align="center">
+
+  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kevinA67&show_icons=true&theme=dark)
+
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinA67&layout=compact&theme=dark)
+
+</div>
+
+---
+<div align="center">
+  
+¡Gracias por visitar mi perfil! Si te interesa colaborar en algún proyecto, no dudes en contactarme.
+</div>
