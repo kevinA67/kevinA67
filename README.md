@@ -8,7 +8,7 @@
 
   <img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="Imagen" width="400px" style="margin-bottom: 20px;">
 
-  <p>Soy un desarrollador apasionado por el desarrollo de software y la tecnología. Me encanta aprender nuevas habilidades y colaborar en proyectos interesantes.</p>
+  <p><b>Soy un desarrollador apasionado por el desarrollo de software y la tecnología. Me encanta aprender nuevas habilidades y colaborar en proyectos interesantes.</b></p>
 
 </div>
 
