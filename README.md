@@ -1,6 +1,6 @@
 ## Hola, soy Alexis 👋 
 
-<img source="https://choprabhargav82.github.io/images/coder.jpg">
+<img src="https://choprabhargav82.github.io/images/coder.jpg">
 
 <!--
 **kevinA67/kevinA67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
